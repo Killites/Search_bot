@@ -42,7 +42,7 @@ Search_bot/
 
 📸 Output Screenshot
 
-"Automation Screenshot" (search_bot.png)
+![Automation Screenshot](search_bot.png)
 
 ---
 
